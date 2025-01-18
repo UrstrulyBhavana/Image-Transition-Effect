@@ -36,3 +36,5 @@ An interactive image transition effect that allows users to slide between two ve
 ## Demo.gif
 
 
+![Image](https://github.com/user-attachments/assets/599099e1-5539-45a8-b8ff-2b36a4d6f886)
+
