@@ -1,5 +1,9 @@
 # 🖼️ Image Transition Effect
 
+## Demo.gif
+
+![Image](https://github.com/user-attachments/assets/599099e1-5539-45a8-b8ff-2b36a4d6f886)
+
 An interactive image transition effect that allows users to slide between two versions of an image using a draggable line. This project creates a visually appealing and intuitive way to compare two images side by side.
 
 ---
@@ -33,8 +37,25 @@ An interactive image transition effect that allows users to slide between two ve
 
 ---
 
-## Demo.gif
+🙋‍♀️ Author
+Linga Bhavana – Frontend Developer
+
+GitHub | urstrulybhavana1432@gmail.com
+
+---
 
 
-![Image](https://github.com/user-attachments/assets/599099e1-5539-45a8-b8ff-2b36a4d6f886)
+📬 **Contact**
+
+For questions or suggestions, feel free to reach out:
+
+- 📧 **Email**: [urstrulybhavana1432@gmail.com](mailto:urstrulybhavana1432@gmail.com)  
+- 🐙 **GitHub**: [UrstrulyBhavana](https://github.com/UrstrulyBhavana)
+
+
+---
+
+📜 License
+
+This project is licensed under the MIT License. See the `LICENSE` file for details.
 
